@@ -1,7 +1,7 @@
 Vorbereitungen
 **************
 
-In diesem Kapitel bekommst Schritt für Schritt gezeigt, was du tun musst, um deinen Computer fürs Programmieren vorzubereiten. 
+In diesem Kapitel bekommst du Schritt für Schritt gezeigt, was du tun musst, um deinen Computer fürs Programmieren vorzubereiten. 
 
 Wenn du Linux benutzt, musst du zunächst ein paar Programme installieren um dann in einem Terminal die Treiber auf den ESP32 zu kopieren. Das Windows Setup ist vergleichsweise einfach. Unter Windows nutzt du die grafische App **uPyCraft** - unter Linux arbeitest du mit der Konsolenanwendung **mpfshell**.
 
